@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Ozoemena</h1>
-<h3 align="center">A frontend developer from Nigeria</h3>
-<img src="[https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)" alt="coding animation" />
+<h3 align="center">A frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeozoemena&label=Profile%20views&color=0e75b6&style=flat" alt="georgeozoemena" /> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Ozoemena</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">Frontend developer || Product designer || Upcoming Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeozoemena&label=Profile%20views&color=0e75b6&style=flat" alt="georgeozoemena" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_georgetweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_georgetweet" height="30" width="40" /></a>
+<a href="https://twitter.com/DeNerdyDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_georgetweet" height="30" width="40" /></a>
 <a href="https://fb.com/geo rge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geo rge" height="30" width="40" /></a>
 </p>
 

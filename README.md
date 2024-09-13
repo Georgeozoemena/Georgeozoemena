@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgeozoemena" alt="georgeozoemena" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_georgetweet" target="blank"><img src="https://img.shields.io/twitter/follow/_georgetweet?logo=twitter&style=for-the-badge" alt="_georgetweet" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DeNerdyDev" target="blank"><img src="https://img.shields.io/twitter/follow/DeNerdyDev?logo=twitter&style=for-the-badge" alt="DeNerdyDev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [devozoemena.vercel.app/](devozoemena.vercel.app/)
 

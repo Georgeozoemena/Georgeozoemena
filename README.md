@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/DeNerdyDev" target="blank"><img src="https://img.shields.io/twitter/follow/DeNerdyDev?logo=twitter&style=for-the-badge" alt="DeNerdyDev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [detechbishop.vercel.app/](detechbishop.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://detechbishop.vercel.app/](https://detechbishop.vercel.app/)
 
 - ⚡ Fun fact **I love Football, A Chelsea fan, Media personal**
 

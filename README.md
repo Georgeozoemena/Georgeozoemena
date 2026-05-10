@@ -1,28 +1,75 @@
-<h1 align="center">Hi 👋, I'm George Ozoemena</h1>
-<h3 align="center">Fullstack Web developer || Product designer</h3>
-<p>Building stuff</p>
+<!-- SYSTEM_BOOT: SUCCESS -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeozoemena&label=Profile%20views&color=0e75b6&style=flat" alt="georgeozoemena" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgeozoemena" alt="georgeozoemena" /></a> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/detechbishop" target="blank"><img src="https://img.shields.io/twitter/follow/detechbishop?logo=twitter&style=for-the-badge" alt="DeNerdyDev" /></a> </p>
+```
+SYSTEM_BOOT: SUCCESS  ·  README_LOADED
+```
 
-- 👨‍💻 All of my projects are available at [https://detechbishop.vercel.app/](https://detechbishop.vercel.app/)
+# GEORGE<br>OZOEMENA
 
-- ⚡ Fun fact **I love Football, A Chelsea fan, Media personal**
+**`FULLSTACK_ENGINEER // PRODUCT_DESIGNER // LAGOS, NG`**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/detechbishop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="detechbishop" height="30" width="40" /></a>
-<a href="https://fb.com/geo rge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geo rge" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Building things for the web — from pixel to production.
+Comfortable across the full stack, obsessive about interfaces that actually feel right to use.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeozoemena&show_icons=true&locale=en&layout=compact" alt="georgeozoemena" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgeozoemena&show_icons=true&locale=en" alt="georgeozoemena" /></p>
+[![PORTFOLIO](https://img.shields.io/badge/ACC__PROTOCOL-detechbishop.vercel.app-e84c1e?style=for-the-badge&labelColor=0a0a0a)](https://detechbishop.vercel.app/)
+[![TWITTER](https://img.shields.io/badge/SEND__SIGNAL-@detechbishop-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=333)](https://twitter.com/detechbishop)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgeozoemena&" alt="georgeozoemena" /></p>
+</div>
+
+---
+
+```
+OT_IDENTITY_SYNC  ·  WHAT I DO
+```
+
+| MODULE | STACK |
+|---|---|
+| `FRONT-END ENGINEERING` | React · TypeScript · CSS · Next.js |
+| `BACKEND SYSTEMS` | Node.js · Python · Express |
+| `PRODUCT DESIGN` | Figma · Photoshop · Sketch |
+| `MEDIA & CONTENT` | Broadcast · CFC · IRL |
+
+---
+
+```
+STACK_MANIFEST
+```
+
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Python` `Bootstrap` `Figma` `Photoshop` `Sketch` `Git`
+
+---
+
+```
+OT_VISUAL_INTEL  ·  GITHUB STATS
+```
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=georgeozoemena&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e84c1e&icon_color=e84c1e&text_color=666666&ring_color=e84c1e" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeozoemena&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e84c1e&text_color=666666" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeozoemena&hide_border=true&background=0a0a0a&ring=e84c1e&fire=e84c1e&currStreakLabel=e84c1e&sideLabels=666666&dates=444444&stroke=1a1a1a" />
+
+</div>
+
+---
+
+```
+LOCATE_SIGNAL
+```
+
+[PORTFOLIO](https://detechbishop.vercel.app/) &nbsp;·&nbsp; [TWITTER\_X](https://twitter.com/detechbishop) &nbsp;·&nbsp; [GITHUB](https://github.com/georgeozoemena) &nbsp;·&nbsp; [FACEBOOK](https://fb.com/george)
+
+```
+SYS_ID: GEORGEOZOEMENA  ·  STATUS: OPERATIONAL
+```

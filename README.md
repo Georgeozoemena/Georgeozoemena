@@ -58,7 +58,7 @@ OT_VISUAL_INTEL  ·  GITHUB STATS
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeozoemena&hide_border=true&background=0a0a0a&ring=e84c1e&fire=e84c1e&currStreakLabel=e84c1e&sideLabels=666666&dates=444444&stroke=1a1a1a" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeozoemena&hide_border=true&background=0a0a0a&color=ffffff&ring=e84c1e&fire=e84c1e&currStreakLabel=e84c1e&sideLabels=666666&dates=444444&stroke=1a1a1a" />
 
 </div>
 

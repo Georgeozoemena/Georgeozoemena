@@ -36,6 +36,7 @@ OT_IDENTITY_SYNC  ·  WHAT I DO
 | `BACKEND SYSTEMS` | Node.js · Python · Express |
 | `PRODUCT DESIGN` | Figma · Photoshop · Sketch |
 | `MEDIA & CONTENT` | Broadcast · CFC · IRL |
+| `MOBILE APP DEVELOPMENT` | React Native · Expo |
 
 ---
 
@@ -43,7 +44,7 @@ OT_IDENTITY_SYNC  ·  WHAT I DO
 STACK_MANIFEST
 ```
 
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Python` `Bootstrap` `Figma` `Photoshop` `Sketch` `Git`
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `React Native` `Next.js` `Node.js` `Python` `Bootstrap` `Figma` `Photoshop` `Sketch` `Git`
 
 ---
 

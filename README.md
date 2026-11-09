@@ -32,10 +32,9 @@ OT_IDENTITY_SYNC  ·  WHAT I DO
 
 | MODULE | STACK |
 |---|---|
-| `FRONT-END ENGINEERING` | React · TypeScript · CSS · Next.js |
+| `FRONT-END ENGINEERING` | React · JavaScript · TypeScript · CSS · Next.js |
 | `BACKEND SYSTEMS` | Node.js · Python · Express |
 | `PRODUCT DESIGN` | Figma · Photoshop · Sketch |
-| `MEDIA & CONTENT` | Broadcast · CFC · IRL |
 | `MOBILE APP DEVELOPMENT` | React Native · Expo |
 
 ---
